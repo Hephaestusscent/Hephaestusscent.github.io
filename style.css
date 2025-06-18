@@ -27,10 +27,13 @@ html, body {
 
 
 .navbar{
-    width: 1200px;
+    width: 2000px;
     height: 75px;
     margin: auto;
+  background-color: rgba(0, 0, 0, 0.85);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
+
 .icon{
     width: 200px;
     float: left;
@@ -39,7 +42,7 @@ html, body {
 .logo{
     color: lightblue;
     font-size: 35px;
-    font-family: Arial;
+    font-family: Georgia;
     padding-left: 20px;
     float: left;
     padding-top: 10px;
@@ -82,9 +85,9 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 2px solid black;
+    border: 2px solid grey;
     margin-top: 13px;
-    color: black;
+    color: grey;
     border-right: none;
     font-size: 16px;
     float: left;
@@ -95,10 +98,10 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: black;
-    border: 2px solid black;
+    background: grey;
+    border: 2px solid grey;
     margin-top: 13px;
-    color: white;
+    color: black;
     font-size: 15px;
     border-bottom-right-radius: 5px;
     border-bottom-right-radius: 5px;
