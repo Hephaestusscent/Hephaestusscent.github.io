@@ -81,6 +81,8 @@ ul li a{
 ul li a:hover{
     color: lightblue;
 }
+
+/*
 .search{
     width: 330px;
     float: left;
@@ -123,6 +125,7 @@ ul li a:hover{
 .srch:focus{
     outline: none;
 }
+*/
 .content{
     width: 1200px;
     height: auto;
